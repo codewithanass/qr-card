@@ -38,11 +38,10 @@ main {
 
 .card {
     text-align: center;
-    padding: 4% 0 0;
 }
 
 .top {
-    padding: 0 13px;
+    padding: 13px;
 }
 
 .top img {
